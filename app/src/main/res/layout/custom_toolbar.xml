@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.appcompat.widget.Toolbar xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="?attr/actionBarSize"
+    android:background="@color/btnstart"
+    android:theme="@style/Animation.Design.BottomSheetDialog"
+    android:id="@+id/myTitleToolbar">
+
+    <de.hdodenhof.circleimageview.CircleImageView
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        android:id="@+id/profile_image"
+        android:layout_width="80dp"
+        android:layout_height="wrap_content"
+        android:src="@drawable/avatar"
+        app:civ_border_width="1dp"
+        app:civ_border_color="#FF000000"
+        android:padding="5dp"/>
+
+    <TextView
+        android:id="@+id/myAddress"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:text="Add Address"
+        android:textStyle="bold"
+        android:gravity="center_vertical"
+        android:textSize="20dp"
+        android:textColor="@color/black">
+
+    </TextView>
+
+</androidx.appcompat.widget.Toolbar>

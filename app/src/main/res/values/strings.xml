@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">DecOtsav</string>
+    <string name="title_home">Home</string>
+    <string name="title_favourite">Favourite</string>
+    <string name="title_profile">Profile</string>
+    <string name="title_cart">Cart</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="basic">Basic</string>
+    <string name="description">Description:</string>
+    <string name="rs_699">Rs 699</string>
+    <string name="address">Address</string>
+    <string name="confirm_address">Confirm Address:</string>
+    <string name="select_day">Select Day:</string>
+    <string name="pick_date">Pick Date</string>
+    <string name="select_slot">Select Slot:</string>
+    <string name="evening_05pm_10pm">Evening 05PM-10PM</string>
+    <string name="afternoon_12pm_05pm">Afternoon 12PM-05PM</string>
+    <string name="morning_07am_12pm">Morning 07AM-12PM</string>
+    <string name="total_items_to_checkout">Total items to checkout:</string>
+    <string name="bill_summary">Bill Summary:</string>
+    <string name="item_total">Item Total</string>
+    <string name="rs_699_00">Rs 699.00</string>
+    <string name="decorator_charges">Decorator Charges</string>
+    <string name="rs_00_00">Rs 00.00</string>
+    <string name="govt_taxes">Govt. taxes</string>
+    <string name="rs_17_00">Rs 17.00</string>
+    <string name="grand_total">Grand Total</string>
+    <string name="rs_716_00">Rs 716.00</string>
+    <string name="pay_using">Pay Using ^</string>
+    <string name="place_order">Place Order</string>
+    <string name="descriptionPopUp">Description:</string>
+    <string name="name">Name</string>
+    <string name="add_to_cart">Add To Cart</string>
+    <string name="book_now">Book Now</string>
+    <string name="rs_599">Rs 599</string>
+    <string name="my_cart">My Cart</string>
+    <string name="add_address">Add Address</string>
+    <string name="_99_9999_9999">+91 9604928396</string>
+    <string name="gaurav_gmail_com">Gauravmishra@gmail.com</string>
+</resources>
